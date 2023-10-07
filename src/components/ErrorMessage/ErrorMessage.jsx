@@ -1,4 +1,4 @@
-import GiffError from '../../icons/gif.gif';
+import GiffError from '../../icons/cat-farsi-sad.gif'
 import css from './ErrorMessage.module.css';
 
 const ErrorMessage = ({ images }) => {
